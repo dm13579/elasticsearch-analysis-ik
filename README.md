@@ -1,4 +1,4 @@
-使用MySQL进行常用词和停用词热更新
+更新版 --- 使用MySQL进行常用词和停用词热更新
 
 IK Analysis for Elasticsearch
 =============================
